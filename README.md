@@ -29,3 +29,16 @@ https://retirement-planning-calculator-flx4.vercel.app/
 
 ## Demo Video
 
+https://drive.google.com/file/d/1OuuuB4-BRW0_6FJ5K-iPtgbfv55KNOiO/view?usp=sharing
+
+## 📸 Screenshots
+
+<p align="center">
+<img width="420" src="https://github.com/user-attachments/assets/2641932e-a05b-421c-994b-be747f9fad75"/>
+<img width="420" src="https://github.com/user-attachments/assets/bef4c6ea-fd92-48ee-86bb-d44fc79b2b49"/>
+</p>
+
+<p align="center">
+<img width="420" src="https://github.com/user-attachments/assets/bd295bdb-4cab-4d78-8554-8f3b3187709f"/>
+<img width="420" src="https://github.com/user-attachments/assets/9cefbca5-f742-48dd-a8fd-a4b74ad01eba"/>
+</p>
