@@ -1,4 +1,4 @@
-# HDFC Retirement Planning Calculator
+# Retirement Planning Calculator
 
 The Retirement Planning Calculator is a web-based financial tool that helps users estimate their future financial needs and plan their retirement savings effectively.
 
@@ -22,3 +22,10 @@ The Retirement Planning Calculator is a web-based financial tool that helps user
 ```bash
 npm install
 npm run dev
+
+## Live Demo
+
+https://retirement-planning-calculator-flx4.vercel.app/
+
+## Demo Video
+
